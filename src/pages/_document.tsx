@@ -13,7 +13,7 @@ export default function Document() {
           rel="stylesheet"
         />
       </Head>
-      <body>
+      <body className="bg-[#121214] bg-galaxy bg-cover bg-no-repeat">
         <Main />
         <NextScript />
       </body>
